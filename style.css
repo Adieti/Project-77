@@ -1,0 +1,16 @@
+.colour{
+    color: rgb(11, 119, 105);
+    background-color: cornflowerblue;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.sec{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: cornflowerblue;
+    margin-left: 1fr;
+    margin-right: 1fr;
+    margin-top: 1fr;
+    margin-bottom: 1fr;
+}
